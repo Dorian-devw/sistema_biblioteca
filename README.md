@@ -36,7 +36,7 @@ Puedes acceder al prototipo del sistema en Figma a través del siguiente enlace:
 
 ## 📄 Introducción 📄
 
-La biblioteca es un recurso clave para la comunidad académica, proporcionando acceso a libros, revistas, tesis, tablets, computadoras y espacios de trabajo colaborativo. Sin embargo, la gestión manual de préstamos, devoluciones y reservas puede resultar ineficiente y propensa a errores.  
+La biblioteca es un recurso clave para la comunidad académica, proporcionando acceso a libros y espacios de trabajo colaborativo. Sin embargo, la gestión manual de préstamos, devoluciones y reservas puede resultar ineficiente y propensa a errores.  
 
 Este proyecto busca implementar un **sistema de gestión integral de biblioteca** que optimice y automatice estos procesos. La solución se centra en cubrir las necesidades específicas de los  usuarios.
 
