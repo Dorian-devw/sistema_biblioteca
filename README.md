@@ -126,7 +126,7 @@ Este es un resumen completo de las tablas y relaciones de la base de datos del s
 
 También se añade el diagrama en formato Mermaid de las tablas
 
-![Diagrama2](diag.mermaid.png)
+![Diagrama2](diag_mermaid.png)
 
 
 >**Usuario**
