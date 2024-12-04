@@ -84,7 +84,7 @@ Este sistema no solo mejora la eficiencia operativa de la biblioteca, sino que t
 ## 📌 Funcionalidades Principales 📌
 
 1. **Gestión de Usuarios:**
-   - Registro y actualización de información de estudiantes, docentes y personal administrativo.
+   - Registro y actualización de información de estudiantes y docentes
    - Relación de usuarios con departamentos y carreras.
 
 2. **Gestión de Recursos:**
