@@ -307,7 +307,7 @@ Este es un resumen completo de las tablas y relaciones de la base de datos del s
 | **Tecnología** | **Uso**                                                     |
 | -------------- | ------------------------------------------------------------|  
 | **Oracle**     | Gestión de la base de datos relacional.                     |
-| **Figma**      | Para poder hacer el bosquejo de como se veria la plataforma |     
+| **Figma**      | Para poder hacer el bosquejo de como se vería la plataforma |     
 
 ---
 
