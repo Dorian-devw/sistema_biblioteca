@@ -268,31 +268,25 @@ Este es un resumen completo de las tablas y relaciones de la base de datos del s
    - **Usuario**
 
 
-3. **Citas** se conecta a:
-
-   - **Pacientes**, **Médicos**
-   - **Consultas**
-   - **Reservas**
-
-4. **Reserva**, **Prestamo** tienen una relación con:
+3. **Reserva**, **Prestamo** tienen una relación con:
 
    - **Usuario**
 
-5. **Reserva** se relaciona con:
+4. **Reserva** se relaciona con:
 
    - **Historial_reserva**
-   - **Aula**
+   - **Sala**
 
-6. **Prestamo** está relacionada con:
+5. **Prestamo** está relacionada con:
 
    - **Historial_prestamo**
    - **Recurso**
 
-7. **Libro**, **Revista** y **Tesis** están relacionados con:
+6. **Libro**, **Revista** y **Tesis** están relacionados con:
 
    - **Recurso**.
 
-7. Tanto **Libros** como **Revistas** están relacionada con:
+7. Tanto **Libro** como **Revista** están relacionada con:
 
    - **Autor**
    - **Editorial**
