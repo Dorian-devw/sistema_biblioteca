@@ -1,6 +1,7 @@
 # sistema_biblioteca
 Trabajo aplicativo del curso de Base de Datos 2024 - II
 
+--- 
 
 # 📚 Sistema Gestión de Biblioteca 📚
 
@@ -160,15 +161,16 @@ Este es un resumen completo de las tablas y relaciones de la base de datos del s
 - ID_Usuario INT ***NOT NULL***,
 - ID_Aula INT ***NOT NULL***,
 - Fecha_Reserva DATETIME ***DEFAULT CURRENT_TIMESTAMP***,
-- Hora_Reserva DATE,
+- Duracion_reserva DATE,
 - ***FOREIGN KEY*** (ID_Usuario) ***REFERENCES*** Usuario(ID_Usuario),
 - ***FOREIGN KEY*** (ID_Aula) ***REFERENCES*** Aula(ID_Aula)
 
-> **Aula**
+> **Sala**
 
-- ID_Aula INT ***PRIMARY KEY***,
-- Nombre_Aula VARCHAR2(20) ***NOT NULL***,
+- ID_sala INT ***PRIMARY KEY***,
+- Nombre_sala VARCHAR2(20) ***NOT NULL***,
 - Capacidad INT ***NOT NULL***
+- Estado VARCHAR2(15) ***NOT NULL***
 
 > **Historial_reserva**
 
