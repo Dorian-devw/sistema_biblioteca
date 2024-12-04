@@ -101,7 +101,6 @@ Este sistema no solo mejora la eficiencia operativa de la biblioteca, sino que t
 
 5. **Análisis y Reportes:**
    - Reportes dinámicos sobre el uso de recursos y comportamiento de los usuarios.
-   - Visualización de datos a través de Power BI.
 ---
 
 ## 📂 Módulos del Sistema 📂
